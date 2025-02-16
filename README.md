@@ -1,13 +1,13 @@
-This is a smart stopwatch create by using html, css and javascript<br>
 
 visit the link 👇
 - [stopwatch](https://ujjwaltri-stopwatch.netlify.app/)
 
 
 # Stopwatch
+This is a smart stopwatch create by using html, css and javascript<br>
 
 
-This is a Travel agency website. it is responsive for all device. it is create by using html, css, and javascript. 
+
 
 
 ## Authors
